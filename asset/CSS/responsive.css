@@ -1,0 +1,1299 @@
+@media only screen and (min-width : 1280px) and (max-width : 1366px)  {
+.nav-item .nav-link{
+    position: relative;
+    color: var(--text-color);
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0rem 0rem !important;
+    transition: .3s ease-in-out;
+    letter-spacing: 2px;
+}
+.banner-text-are{
+    text-align: center;
+        padding: 200px 0px;
+        color: aliceblue;
+        width: 50%;
+}
+.banner-text-are h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    word-spacing: 6px;
+    color: rgb(248, 248, 248);
+    letter-spacing: 10px;
+}
+
+.banner-text-are h2{
+    font-size: 2.6rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    word-spacing: 4px;
+    color: white;
+}
+
+.banner_purchare_are{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 3px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+.btn-group .btn{
+    color: rgb(240, 240, 240) !important;
+    font-size: 1.2rem;
+    transition: .3s ease-in-out;
+}
+}
+/* ------------------Banner Responsive Start---------------- */
+@media only screen and (min-width : 992px) and (max-width : 1279px){
+    .nav-item .nav-link{
+        position: relative;
+        color: var(--text-color);
+        font-size: 20px;
+        text-transform: uppercase;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        padding: 0rem 0rem !important;
+        transition: .3s ease-in-out;
+        letter-spacing: 2px;
+    }
+    .banner-text-are{
+        text-align: center;
+            padding: 200px 0px;
+            color: aliceblue;
+            width: 50%;
+    }
+    .banner-text-are h1{
+        font-size: 3rem;
+        text-transform: uppercase;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 600;
+        word-spacing: 6px;
+        color: rgb(248, 248, 248);
+        letter-spacing: 10px;
+    }
+    
+    .banner-text-are h2{
+        font-size: 2.6rem;
+        text-transform: uppercase;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        word-spacing: 4px;
+        color: white;
+    }
+    
+    .banner_purchare_are{
+        width: 80%;
+        margin: 0 auto;
+        padding: 0px 0px;
+        background: rgba(0, 0, 0, 0.834);
+        border-radius: 3px;
+        box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+        border: 1px solid rgba(56, 209, 243, 0.42);
+    }
+    .btn-group .btn{
+        color: rgb(240, 240, 240) !important;
+        font-size: 1rem;
+        transition: .3s ease-in-out;
+    }
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px)  {
+/* ------------------Banner Responsive Start---------------- */
+#google_translate_element{
+    display: none;
+}
+.banner-text-are{
+    text-align: center;
+    padding: 180px 0px;
+    color: aliceblue;
+    width: 100%;
+}
+.banner-text-are h1{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    word-spacing: 6px;
+    color: black;
+    letter-spacing: 10px;
+}
+
+.banner-text-are h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    word-spacing: 4px;
+    color: black;
+}
+
+.banner_purchare_are{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+.btn-group .btn{
+    color: rgb(240, 240, 240) !important;
+    font-size: 1rem;
+    transition: .3s ease-in-out;
+}
+/* ------------------Banner Responsive End---------------- */
+
+/* ------------------About Responsive Start---------------- */
+.abut-row-padding{
+    padding: 50px 0;
+}
+
+.about-content-top span{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 2px;
+}
+
+.about-content-top h2{
+    font-size: 2.3rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    word-spacing:2px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    
+}
+
+.about-content-box p{
+    font-size: 1rem;
+    text-transform: lowercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    word-spacing:1px;
+    line-height: 25px; 
+    color: var(--text-color);
+}
+
+/* ------------------About Responsive End---------------- */
+
+/* ------------------Game Future Responsive Start---------------- */
+.gmae-future-photo{
+    width: 100%;
+    min-height:60vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* ------------------Game Future Responsive End---------------- */
+
+/* ------------------System Requirment Responsive Start---------------- */
+.system-requirment-row-padding{
+    padding: 50px 0;
+}
+.system_requirment_conten_box{
+    padding-top: 50px;
+}
+.available-content-box{
+    padding: 50px 0;
+}
+.available-left-conten h5{
+    color: var(--text-color);
+    font-size: 2.5rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+/* ------------------System Requirment Responsive End---------------- */
+
+/* ------------------Review Responsive Start---------------- */
+.review-margin{
+    margin-bottom: 50px;
+}
+.reviews-box{
+    padding: 50px 0;
+}
+.reviews-box h5{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding-bottom: 40px ;
+}
+.reviews-content p{
+    color: var(--text-color);
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 0;
+    position: relative;
+}
+/* ------------------Review Responsive End---------------- */
+
+
+/* ------------------Subacribe Responsive Start---------------- */
+.subscribe-margin{
+    margin-bottom: 50px;
+}
+.subscribe-content h6{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.subscribe-content h2{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+}
+.subscribe-content p{
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: var(--text-color);
+}
+/* ------------------Subacribe Responsive End---------------- */
+
+
+/* ------------------Banner Responsive Start---------------- */
+.footer-manu{
+    display: none;
+}
+.footer-box{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ------------------Banner Responsive End---------------- */
+
+} 
+
+
+@media only screen and (min-width : 540px) and (max-width : 767px){
+/* ------------------Banner Responsive Start---------------- */    
+#google_translate_element{
+    display: none;
+}
+#toggle-btn{
+    margin-right: 40px;
+}
+.banner-text-are{
+    text-align: center;
+    padding: 120px 0px;
+    color: aliceblue;
+    width: 100%;
+}
+.banner-text-are h1{
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    word-spacing: 6px;
+    color: black;
+    letter-spacing: 10px;
+}
+.banner-text-are h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    word-spacing: 4px;
+    color: black;
+}
+.banner_purchare_are{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+.banner-text-are p{
+    font-size: .8rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+ .btn-group .btn{
+    color: var(--text-color) !important;
+    font-size: 1rem;
+    transition: .3s ease-in-out;
+}
+
+.bann-view_box_one span{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    cursor:default;
+    transition: .3s ease-in-out;
+}
+.bann-view_box_one p{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    line-height: 20px;
+    transition: .3s ease-in-out;
+    cursor: default;
+    letter-spacing: 3px;
+}
+/* ------------------Banner Responsive End---------------- */
+
+/* ------------------About Responsive Start---------------- */
+.abut-row-padding{
+    padding: 50px 0;
+}
+.about-content-top span{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 2px;
+}
+
+.about-content-top h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    word-spacing:2px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    
+}
+
+.about-content-box p{
+    font-size: 1rem;
+    text-transform: lowercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    word-spacing: 1px;
+    line-height: 24px; 
+    color: var(--text-color);
+}
+
+.slide_show{
+    position: relative;
+    padding-left: 20px;
+    display: block;
+    margin-bottom: -200px;
+    padding-top:20px ;
+  }
+/* ------------------About Responsive End---------------- */
+
+/* ------------------Game Future Responsive Start---------------- */
+.accrodion::before{
+    position: absolute;
+    content: '';
+    height: 420px;
+    width: 1px;
+    background: var(--text-color);
+    top: 8px;
+    left: 26px;
+}
+.accrodion li label{
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--hover-color);
+    position: relative;
+    padding-bottom: 18px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box h2{
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 40px;
+    padding-left: 20px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box span{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding-left: 20px;
+    letter-spacing: 3px;
+    
+}
+
+.gmae-future-photo{
+    width: 100%;
+    min-height:60vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.game-future-conten-box{
+    color: var(--text-color);
+    padding: 30px 0 10px 0 ;
+    margin-bottom: -50px;
+}
+/* ------------------Game Future Responsive End---------------- */
+
+/* ------------------System Requirment Responsive Start---------------- */
+.system-requirment-row-padding{
+    padding: 40px 0;
+}
+.system_requirment_conten_box{
+    padding-top: 20px;
+}
+
+
+.system_feture_title_text h6{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    letter-spacing: 3px;
+}
+.system_feture_title_text h2{
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    word-spacing: 5px;
+    letter-spacing: 4px;
+}
+.system_tb_text{
+    color: var(--hover-color);
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 5px;
+    letter-spacing: 3px;
+
+}
+/* ------------------System Requirment Responsive End---------------- */
+
+/* ------------------Avilable System Responsive Start---------------- */
+.available-content-box{
+    padding: 50px 0;
+}
+.available-left-conten h5{
+    color: var(--text-color);
+    font-size: 2.5rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+.available-left-conten .play-btn{
+    color: var(--text-color);
+    background: rgba(0, 255, 255, 0.235);
+    border: 1px solid var(--hover-color);
+    backdrop-filter: blur(10px) !important;
+    padding: 10px 20px;
+    transition: .4s ease-in-out;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+ }
+
+/* ------------------Avilable System Responsive End---------------- */
+
+/* ------------------Review Responsive Start---------------- */
+.review-margin{
+    margin-bottom: 50px;
+}
+.reviews-box{
+    padding: 50px 0;
+}
+.reviews-box h5{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding-bottom: 40px ;
+}
+.reviews-content p{
+    color: var(--text-color);
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 0;
+    position: relative;
+    letter-spacing: 2px;
+}
+/* ------------------Review Responsive End---------------- */
+
+/* ------------------Subacribe Responsive Start---------------- */
+.subscribe-margin{
+    margin-bottom: 50px;
+}
+.subscribe-content h6{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.subscribe-content h2{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+}
+.subscribe-content p{
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: var(--text-color);
+}
+/* ------------------Subacribe Responsive End---------------- */
+
+/* ------------------Footer Responsive Start---------------- */
+.footer-manu{
+    display: none;
+}
+.footer-box{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ------------------Footer Responsive End---------------- */
+}
+/* ------------------ Responsive Start---------------- */
+@media only screen and (min-width : 480px) and (max-width : 539px){
+#google_translate_element{
+    display: none;
+}
+#toggle-btn{
+    margin-right: 40px;
+}
+/* ------------------Banner Responsive Start---------------- */
+.banner-text-are{
+    text-align: center;
+    padding: 150px 0px;
+    color: aliceblue;
+    width: 100%;
+}
+.banner-text-are h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    word-spacing: 6px;
+    color: black;
+    letter-spacing: 5px;
+}
+.banner-text-are h2{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    word-spacing: 4px;
+    color: black;
+    letter-spacing: 2px;
+}
+.banner_purchare_are{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+
+.banner_purchare_are{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+
+ .btn-group .btn{
+    color: var(--text-color) !important;
+    font-size: 16px !important;
+}
+
+/* ------------------Banner Responsive End---------------- */
+/* ------------------About Responsive Start---------------- */
+.abut-row-padding{
+    padding: 50px 0;
+}
+.about-content-top span{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 2px;
+}
+
+.about-content-top h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    word-spacing:2px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    
+}
+
+.about-content-box p{
+    font-size: 1rem;
+    text-transform: lowercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    word-spacing: 1px;
+    line-height: 24px; 
+    color: var(--text-color);
+}
+.slide_show{
+    margin-left: -20px;
+    margin-top: -100px;
+    margin-bottom: -100px;
+}
+
+/* ------------------About Responsive End---------------- */
+
+/* ------------------Game Future Responsive Start---------------- */
+.accrodion::before{
+    position: absolute;
+    content: '';
+    height: 420px;
+    width: 1px;
+    background: var(--text-color);
+    top: 8px;
+    left: 26px;
+}
+.accrodion li label{
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--hover-color);
+    position: relative;
+    padding-bottom: 18px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box h2{
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 40px;
+    padding-left: 20px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box span{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding-left: 20px;
+    letter-spacing: 3px;
+    
+}
+
+.gmae-future-photo{
+    width: 100%;
+    min-height:60vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.game-future-conten-box{
+    color: var(--text-color);
+    padding: 30px 0 10px 0 ;
+    margin-bottom: -50px;
+}
+/* ------------------Game Future  Responsive End---------------- */
+
+/* ------------------System Requirment Responsive Start---------------- */
+.system-requirment-row-padding{
+    padding: 30px 0;
+}
+.system_requirment_conten_box{
+    padding-top: 20px;
+}
+
+
+.system_feture_title_text h6{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    letter-spacing: 3px;
+}
+.system_feture_title_text h2{
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    word-spacing: 5px;
+    letter-spacing: 4px;
+}
+.system_tb_text{
+    color: var(--hover-color);
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 5px;
+    letter-spacing: 3px;
+}
+.sestem_tb_P_area p{
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: rgba(253, 253, 253, 0.994);
+    line-height: 20px;
+    padding-left: 5px;
+}
+/* ------------------System Requirment Responsive End---------------- */
+
+/* ------------------Available Steam Responsive Start---------------- */
+.available-content-box{
+    padding: 50px 0;
+}
+.available-left-conten h5{
+    color: var(--text-color);
+    font-size: 2.5rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+.available-left-conten .play-btn{
+    color: var(--text-color);
+    background: rgba(0, 255, 255, 0.235);
+    border: 1px solid var(--hover-color);
+    backdrop-filter: blur(10px) !important;
+    padding: 10px 20px;
+    transition: .4s ease-in-out;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+ }
+
+/* ------------------Available Steam Responsive End---------------- */
+
+/* ------------------Review Responsive Start---------------- */
+.review-margin{
+    margin-bottom: 50px;
+}
+.reviews-box{
+    padding: 50px 0;
+}
+.reviews-box h5{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding-bottom: 40px ;
+}
+.reviews-content p{
+    color: var(--text-color);
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 0;
+    position: relative;
+    letter-spacing: 2px;
+}
+/* ------------------Review Responsive End---------------- */
+
+/* ------------------Subscriber Responsive Start---------------- */
+.subscribe-margin{
+    margin-bottom: 50px;
+}
+.subscribe-content h6{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.subscribe-content h2{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+}
+.subscribe-content p{
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: var(--text-color);
+}
+/* ------------------Subscriber Responsive End---------------- */
+
+/* ------------------Footer Responsive Start---------------- */
+.footer-manu{
+    display: none;
+}
+.footer-box{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ------------------Footer Responsive End---------------- */
+
+/* ------------------ Responsive Start---------------- */
+/* ------------------ Responsive End---------------- */
+
+}
+/* ------------------ Responsive End---------------- */
+@media only screen and (min-width : 360px) and (max-width : 479px){
+  /* ------------------Banner Responsive Start---------------- */    
+#google_translate_element{
+    display: none;
+}
+#toggle-btn{
+    margin-right: 60px;
+}
+.navbar-nav{
+    text-align: right;
+    margin: auto;
+    width: 210px;
+    padding-top: 20px;
+}
+.nav-item .nav-link{
+    position: relative;
+    color: var(--text-color);
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0rem 0rem !important;
+    transition: .3s ease-in-out;
+    letter-spacing: 2px;
+}
+
+.banner-text-are{
+    text-align: center;
+    padding-top: 140px;
+    padding-bottom: 80px;
+    color: aliceblue;
+    width: 100%;
+}
+.banner-text-are h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    word-spacing: 6px;
+    color: black;
+    letter-spacing: 10px;
+}
+.banner-text-are h2{
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    word-spacing: 4px;
+    color: black;
+}
+.banner_purchare_are{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(56, 209, 243, 0.42);
+    border: 1px solid rgba(56, 209, 243, 0.42);
+}
+.banner-text-are p{
+    font-size: .8rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+ .btn-group .btn{
+    color: var(--text-color) !important;
+    font-size: 1rem;
+    transition: .3s ease-in-out;
+}
+
+.bann-view_box_one span{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    cursor:default;
+    transition: .3s ease-in-out;
+}
+.bann-view_box_one p{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    line-height: 20px;
+    transition: .3s ease-in-out;
+    cursor: default;
+    letter-spacing: 3px;
+}
+/* ------------------Banner Responsive End---------------- */      
+
+/* ------------------About Responsive Start---------------- */
+.abut-row-padding{
+    padding: 50px 0;
+}
+.about-content-top span{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400; 
+    letter-spacing: 2px;
+}
+
+.about-content-top h2{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    word-spacing:2px;
+    line-height: 30px;
+    letter-spacing: 3px;
+    
+}
+
+.about-content-box p{
+    font-size: 1rem;
+    text-transform: lowercase;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    word-spacing: 1px;
+    line-height: 24px; 
+    color: var(--text-color);
+}
+.slide_show{
+    margin-left: -20px;
+    margin-top: -80px;
+    margin-bottom: -350px !important;
+}
+
+/* ------------------About Responsive End---------------- */
+
+/* ------------------Game Future Responsive Start---------------- */
+.accrodion::before{
+    position: absolute;
+    content: '';
+    height: 420px;
+    width: 1px;
+    background: var(--text-color);
+    top: 8px;
+    left: 26px;
+}
+.accrodion li label{
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--hover-color);
+    position: relative;
+    padding-bottom: 18px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box h2{
+    font-size: 1.8rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    line-height: 40px;
+    padding-left: 20px;
+    letter-spacing: 3px;
+}
+.game-future-conten-box span{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding-left: 20px;
+    letter-spacing: 3px;
+    
+}
+
+.gmae-future-photo{
+    width: 100%;
+    min-height:60vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.future-opacity{
+    min-height: 60vh;
+    width: 100%;
+    background: #000;
+    opacity: 70%;
+}
+
+.game-future-conten-box{
+    color: var(--text-color);
+    padding: 30px 0 10px 0 ;
+    margin-bottom: -50px;
+}
+/* ------------------Game Future Responsive End---------------- */
+
+/* ------------------System Requirment Responsive Start---------------- */
+.system-requirment-row-padding{
+    padding: 30px 0;
+}
+.system_requirment_conten_box{
+    padding-top: 20px;
+}
+
+
+.system_feture_title_text h6{
+    font-size: 1rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    letter-spacing: 3px;
+}
+.system_feture_title_text h2{
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    color: var(--text-color);
+    word-spacing: 5px;
+    letter-spacing: 4px;
+}
+.system_tb_text{
+    color: var(--hover-color);
+    font-size: 1.2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding: 5px;
+    letter-spacing: 3px;
+}
+.sestem_tb_P_area p{
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: rgba(253, 253, 253, 0.994);
+    line-height: 20px;
+    padding-left: 5px;
+}
+/* ------------------System Requirment Responsive End---------------- */
+
+/* ------------------Available Steam Responsive Start---------------- */
+.available-content-box{
+    padding: 50px 0;
+}
+.available-left-conten h5{
+    color: var(--text-color);
+    font-size: 2rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+.available-left-conten .play-btn{
+    color: var(--text-color);
+    background: rgba(0, 255, 255, 0.235);
+    border: 1px solid var(--hover-color);
+    backdrop-filter: blur(10px) !important;
+    padding: 10px 20px;
+    transition: .4s ease-in-out;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+ }
+
+/* ------------------Available Steam Responsive End---------------- */
+
+/* ------------------Review Responsive Start---------------- */
+.review-margin{
+    margin-bottom: 50px;
+}
+.reviews-box{
+    padding: 50px 0;
+}
+.reviews-box h5{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    padding-bottom: 40px ;
+    letter-spacing: 3px;
+}
+.reviews-content p{
+    color: var(--text-color);
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 0;
+    position: relative;
+    letter-spacing: 2px;
+}
+/* ------------------Review Responsive End---------------- */
+
+/* ------------------Subscriber Responsive Start---------------- */
+.subscribe-margin{
+    margin-bottom: 50px;
+}
+.subscribe-content h6{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.subscribe-content h2{
+    color: var(--text-color);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    letter-spacing: 3px;
+}
+.subscribe-content p{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: var(--text-color);
+}
+.subscribe-form-area {
+    display: block;
+}
+.subscribe-form-area .subscribe-btn{
+    margin-top: 20px;
+}
+/* ------------------Subscriber Responsive End---------------- */
+
+/* ------------------Footer Responsive Start---------------- */
+.footer-manu{
+    display: none;
+}
+.footer-box{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-logo img{
+    display: none;
+}
+
+/* ------------------Footer Responsive End---------------- */
+
+
+}
+
+/* ------------------Banner Responsive Start---------------- */
+/* ------------------Banner Responsive End---------------- */
+
+/* ------------------Banner Responsive Start---------------- */
+/* ------------------Banner Responsive End---------------- */
+
